@@ -49,3 +49,7 @@ print(df.info())
 # Information with symboling from CSV
 data = pd.get_dummies(df, drop_first=True)
 print(data.head())
+
+# Credits 
+# www.programistamag.pl 
+# https://www.kaggle.com/shaistashaikh/carprice-assignmentexample
