@@ -52,4 +52,4 @@ print(data.head())
 
 # Credits 
 # www.programistamag.pl 
-# https://www.kaggle.com/shaistashaikh/carprice-assignmentexample
+# shaista shaikh & Mustafa Fatakdawala from www.kaggle.com
